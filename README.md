@@ -19,7 +19,7 @@
 **Complete End-to-End Telco 5G & Healthcare Use Case Final**
 
 
-[Red Hat & NVIDIA GTC Booth Video](https://www.youtube.com/watch?v=iEL5FSmGY0M) - No Audio / Lower Thirds
+[Red Hat & NVIDIA Complete Video](https://www.youtube.com/watch?v=iEL5FSmGY0M) - Audio Voice Over
 
 - Red Hat OpenShift
 - Red Hat OpenShift AI
