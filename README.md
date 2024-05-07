@@ -19,7 +19,7 @@
 **Complete End-to-End Telco 5G & Healthcare Use Case Final**
 
 
-[Red Hat & NVIDIA Complete Video](https://www.youtube.com/watch?v=iEL5FSmGY0M) - Audio Voice Over
+[Red Hat & NVIDIA Complete Video](https://www.youtube.com/watch?v=iEL5FSmGY0M) - :loud_sound: Audio Voice Over
 
 - Red Hat OpenShift
 - Red Hat OpenShift AI
