@@ -61,7 +61,7 @@ Core Cloud Application:
 
 [Visit the Catalyst Project Page](https://www.tmforum.org/catalysts/projects/C23.0.504)
 
-[![Catalyst Project Image](images/1.png)](https://www.tmforum.org/catalysts/projects/C23.0.504)
+[Catalyst Project Image](https://www.tmforum.org/catalysts/projects/C23.0.504)
 
 ### Complete 35 Min. Presentation of our Project
 
