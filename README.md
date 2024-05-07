@@ -28,4 +28,31 @@
 - NVIDIA NeMo Microservices - NVIDIA NIM for LLMs
 
 
+## Red Hat MWC 2024 Demo Videos
+
+
+**Red Hat Open Digital Marketplace**
+
+Streaming soil sensor data, RAG at the edge - Realtime Data Caching, Python DASH library for dashboard at the edge, Watson X local inference on real-time data, GenAI 'Core Telco Cloud' integration with edge, Red Hat OpenShift on AWS (ROSA) integration with AI in Telco Cloud to deploy GenAI application in the core as 'Red Hat Data Hub in the Core Cloud.
+
+Core Cloud Application:
+
+- Swarm Drones, Orthophotographic images, 5G enabled flight path to KML mappings. 
+- Integration of drone data with GenAI infernce chatbot for growers.
+- Advanced Semantic Routing multiple models leveraging Red Hat OpenShift AI for model testing.
+
+
+[Open Digital Marketplace - Red Hat Booth](https://www.youtube.com/watch?v=iEL5FSmGY0M) - No Audio / Lower Thirds
+
+- BeyondNow - Marketplace
+- Symphonica Service Orchestration
+- Red Hat OpenShift Edge Computing (AI Edge Hub)
+- HPE ProLiant DL380
+- NVIDIA A100 - 80Gb
+- Watson X AI (Prompt Lab)
+- 
+
+
+
+
 
