@@ -4,4 +4,4 @@
 
 **5G Healthcare Use Case Final**
 
-[![Watch the video](https://img.youtube.com/vi/JTBvfeHUL3g/maxresdefault.jpg)](https://youtu.be/JTBvfeHUL3g)
+[YouTube Video](https://www.youtube.com/watch?v=JTBvfeHUL3g)
