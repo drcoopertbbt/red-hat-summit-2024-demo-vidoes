@@ -4,7 +4,7 @@
 
 **5G Healthcare Use Case Final**
 
-[Red Hat & :sparkles: NVIDIA NIM Booth Video](https://www.youtube.com/watch?v=JTBvfeHUL3g) - No Audio / Lower Thirds
+[Red Hat & :sparkles: NVIDIA NIM Booth Video](https://www.youtube.com/watch?v=JTBvfeHUL3g) - No :no_entry: Audio / Lower Thirds
 
 - Red Hat OpenShift
 - Red Hat OpenShift AI
@@ -44,7 +44,7 @@ Core Cloud Application:
 - Advanced Semantic Routing multiple models leveraging Red Hat OpenShift AI for model testing.
 
 
-[Open Digital Marketplace - Red Hat Booth](https://www.youtube.com/watch?v=iEL5FSmGY0M) - No Audio / Lower Thirds
+[Open Digital Marketplace - Red Hat Booth](https://www.youtube.com/watch?v=iEL5FSmGY0M) - No :no_entry: Audio / Lower Thirds
 
 - BeyondNow - Marketplace
 - Symphonica Service Orchestration
@@ -59,9 +59,7 @@ Core Cloud Application:
 
 ### Main TM Forum Digital Transformation World 2023 - Catalyst Page
 
-[Visit the Catalyst Project Page](https://www.tmforum.org/catalysts/projects/C23.0.504)
-
-[Catalyst Project Image](https://www.tmforum.org/catalysts/projects/C23.0.504)
+[TMF Catalyst Project Page](https://www.tmforum.org/catalysts/projects/C23.0.504)
 
 ### Complete 35 Min. Presentation of our Project
 
