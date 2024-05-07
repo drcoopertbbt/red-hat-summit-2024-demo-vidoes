@@ -33,6 +33,8 @@
 
 **Red Hat Open Digital Marketplace**
 
+:ear_of_rice: :sheep: :cow: :tractor: :barn:
+
 Streaming soil sensor data, RAG at the edge - Realtime Data Caching, Python DASH library for dashboard at the edge, Watson X local inference on real-time data, GenAI 'Core Telco Cloud' integration with edge, Red Hat OpenShift on AWS (ROSA) integration with AI in Telco Cloud to deploy GenAI application in the core as 'Red Hat Data Hub in the Core Cloud.
 
 Core Cloud Application:
