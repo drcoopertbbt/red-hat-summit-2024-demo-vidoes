@@ -4,4 +4,6 @@
 
 **5G Healthcare Use Case Final**
 
-[Both Video](https://www.youtube.com/watch?v=JTBvfeHUL3g)
+
+
+[Red Hat & NVIDIA NIM Booth Video](https://www.youtube.com/watch?v=JTBvfeHUL3g)
