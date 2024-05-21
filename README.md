@@ -1,6 +1,7 @@
 ## Multi-conference Colllection of Red Hat / Telco AI Demos
 
 ## Red Hat Summit 2024 Demo Videos
+by David Kypuros
 
 **5G Healthcare Use Case Final**
 
@@ -79,3 +80,9 @@ Core Cloud Application:
 
 
 
+## Related Red Hat Demo Videos
+for quick reference 
+
+- Chris Chase gives a short 90 second tour of some of the demos around OpenShift AI
+
+ - https://www.youtube.com/watch?v=PtD4mf8PcJ4
